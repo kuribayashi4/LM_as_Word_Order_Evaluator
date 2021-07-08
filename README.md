@@ -19,5 +19,7 @@
 ```
 - conference paper: https://www.aclweb.org/anthology/2020.acl-main.47/
 
+The data used in the experiment 1 is released in this repository.
+For copyright issues, data used for the experiment 2 is not released.
 One can download the language models used for our experiments from the release tag.
 
